@@ -1,3 +1,20 @@
+# Ailocks: Ai2Ai Network. Your AI assistants Ailocks working together for you.
+
+## Short Description 
+
+A network where everyone has their own Ailock and they form teams to benefit, promote and create.
+
+## Inspiration:
+
+Ai2Ai Network was inspired by the concept of secure, user-controlled AI assistants (‘Ailocks’) and the need for a system that allows specialised AI to easily collaborate to solve complex problems for users. The project aims to provide location-aware and user-aware products and services by facilitating interaction between personalised AI assistants.
+We believe that a world where everyone has their own "Jarvis" (Ailock) is more attractive than a world full of Terminators and Agent Smiths.
+
+## What it is:
+
+Ai2Ai Network is a distribution system for products and services where users post their requirements (‘intentions’) and offer their services. The platform then creates ‘smart chains’ through multiple AI assistants that manage their owners' intentions and offers, automatically fulfilling complex requests and managing secure payments through escrow.
+
+-----------------------
+
 # История Ailock: От Мечты о Джарвисе к Безопасному Будущему с ИИ
 
 Мир замер на пороге новой эры. Искусственный интеллект стремительно врывается в нашу жизнь, обещая невероятные прорывы, революцию в науке, творчестве и повседневности. Но в тени этих грандиозных обещаний, в тихом шепоте сомнений, прячется тревога. Какой будет цена этого прогресса? Не приведет ли он нас к будущему, сошедшему со страниц мрачных антиутопий – к холодным улицам, где бездушные машины вершат судьбы, или к миру, где каждый наш шаг контролируется всевидящими цифровыми "Агентами Смитами"?
