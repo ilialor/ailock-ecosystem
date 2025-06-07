@@ -14,6 +14,7 @@ We believe that a world where everyone has their own "Jarvis" (Ailock) is more a
 Ai2Ai Network is a distribution system for products and services where users post their requirements (‘intentions’) and offer their services. The platform then creates ‘smart chains’ through multiple AI assistants that manage their owners' intentions and offers, automatically fulfilling complex requests and managing secure payments through escrow.
 
 -----------------------
+## Полная русская версия
 
 # История Ailock: От Мечты о Джарвисе к Безопасному Будущему с ИИ
 
